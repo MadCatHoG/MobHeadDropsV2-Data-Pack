@@ -137,4 +137,12 @@ execute as @e[tag=!loot,type=witch] run data merge entity @s {Tags:["loot"],Deat
 execute as @e[tag=!loot,type=wolf] run data merge entity @s {Tags:["loot"],DeathLootTable:"minecraft:wolf"}
 execute as @e[tag=!loot,type=zombie_horse] run data merge entity @s {Tags:["loot"],DeathLootTable:"minecraft:zombie_horse"}
 execute as @e[tag=!loot,type=zombie_pigman] run data merge entity @s {Tags:["loot"],DeathLootTable:"minecraft:zombie_pigman"}
+execute as @e[tag=!loot,type=drowned] run data merge entity @s {Tags:["loot"],DeathLootTable:"minecraft:drowned"}
+execute as @e[tag=!loot,type=dolphin] run data merge entity @s {Tags:["loot"],DeathLootTable:"minecraft:dolphin"}
+execute as @e[tag=!loot,type=turtle] run data merge entity @s {Tags:["loot"],DeathLootTable:"minecraft:turtle"}
+execute as @e[tag=!loot,type=phantom] run data merge entity @s {Tags:["loot"],DeathLootTable:"minecraft:phantom"}
+execute as @e[tag=!loot,type=pufferfish] run data merge entity @s {Tags:["loot"],DeathLootTable:"minecraft:pufferfish"}
+execute as @e[tag=!loot,type=salmon] run data merge entity @s {Tags:["loot"],DeathLootTable:"minecraft:salmon"}
+execute as @e[tag=!loot,type=cod] run data merge entity @s {Tags:["loot"],DeathLootTable:"minecraft:cod"}
+execute as @e[tag=!loot,type=tropical_fish] run data merge entity @s {Tags:["loot"],DeathLootTable:"minecraft:tropical_fish"}
 #execute as @e[tag=!loot,type=] run data merge entity @s {Tags:["loot"],DeathLootTable:"minecraft:"}
