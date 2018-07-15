@@ -1,7 +1,7 @@
 {
     "parent":"minecraft:story/root",
     "rewards": {
-        "function": "advancements:trigger"
+        "function": "mobheads:setup"
     },
     "criteria": {
         "crafting_table": {
