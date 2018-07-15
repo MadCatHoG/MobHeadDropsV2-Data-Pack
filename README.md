@@ -6,4 +6,5 @@ To enable the datapack, copy the moremobheads directory into the "datapacks" dir
 Credits to:
 - minecraft-heads.com for the mob head resources
 - xNitrate for the original 1.13 migration attempt
+- carlpoole for refinements along the snapshot releases
 - Veritas83 for the example of making a looping Minecraft function: https://github.com/Veritas83/minecraft-1.13-function-loop
