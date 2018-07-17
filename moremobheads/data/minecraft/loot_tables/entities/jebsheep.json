@@ -43,10 +43,7 @@
             "weight": 1,
             "functions": [{
                 "function": "set_nbt",
-                "tag": "{SkullOwner:{Id:\"9bb1e075-7a09-4bac-a8a4-441ee9184303\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmM0Y2JmMmRhYzQyZGUzYjJjYmZkMGFhMWRjNDAzNjNiNmQzZDViNTczNmIyYTc4OGMwNWQxYjRhYmIxOWU3In19fQ==\"}]}}}"
-            }, {
-                "function": "set_name",
-                "name": "Jeb_ Sheep Head"
+                "tag": "{SkullOwner:{Id:\"9bb1e075-7a09-4bac-a8a4-441ee9184303\",Name:\"Jeb_ Sheep\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmM0Y2JmMmRhYzQyZGUzYjJjYmZkMGFhMWRjNDAzNjNiNmQzZDViNTczNmIyYTc4OGMwNWQxYjRhYmIxOWU3In19fQ==\"}]}}}"
             }]
         }]
     }]

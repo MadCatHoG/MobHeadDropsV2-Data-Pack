@@ -14,11 +14,8 @@
          "weight": 1,
          "functions": [{
             "function": "set_nbt",
-            "tag": "{SkullOwner:{Id:\"33c425bb-a294-4e01-9b5b-a8ad652bb5cf\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODRhYWZmYTRjMDllMmVhZmI4NWQzNTIyMTIyZGIwYWE0NTg3NGJlYTRlM2Y1ZTc1NjZiNGQxNjZjN2RmOCJ9fX0=\"}]}}}"
-         }, {
-                "function": "set_name",
-                "name": "Endermite Head"
-            }]
+            "tag": "{SkullOwner:{Id:\"33c425bb-a294-4e01-9b5b-a8ad652bb5cf\",Name:\"Endermite\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODRhYWZmYTRjMDllMmVhZmI4NWQzNTIyMTIyZGIwYWE0NTg3NGJlYTRlM2Y1ZTc1NjZiNGQxNjZjN2RmOCJ9fX0=\"}]}}}"
+         }]
       }]
    }]
 }
