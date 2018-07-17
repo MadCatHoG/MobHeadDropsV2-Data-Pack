@@ -59,10 +59,10 @@ scoreboard players set @e[type=horse,tag=!loot,nbt={Variant:262}] Var 32
 scoreboard players set @e[type=horse,tag=!loot,nbt={Variant:518}] Var 32
 scoreboard players set @e[type=horse,tag=!loot,nbt={Variant:774}] Var 32
 scoreboard players set @e[type=horse,tag=!loot,nbt={Variant:1030}] Var 32
-scoreboard players set @e[type=rabbit,tag=!loot1,nbt={CustomName:Toast}] Var 33
+scoreboard players set @e[type=rabbit,tag=!loot1,nbt={CustomName:"{\"text\":\"Toast\"}"}] Var 33
 scoreboard players set @e[type=wither,tag=!loot] Var 34
 scoreboard players set @e[type=creeper,tag=!loot,nbt={powered:1b}] Var 35
-scoreboard players set @e[type=sheep,tag=!loot,nbt={CustomName:jeb_}] Var 36
+scoreboard players set @e[type=sheep,tag=!loot,nbt={CustomName:"{\"text\":\"jeb_\"}"}] Var 36
 execute as @e[type=zombie_villager,scores={Var=1},tag=!loot] run data merge entity @s {Tags:["loot"],DeathLootTable:"minecraft:entities/zombie_villager/farmer"}
 execute as @e[type=zombie_villager,scores={Var=2},tag=!loot] run data merge entity @s {Tags:["loot"],DeathLootTable:"minecraft:entities/zombie_villager/librarian"}
 execute as @e[type=zombie_villager,scores={Var=3},tag=!loot] run data merge entity @s {Tags:["loot"],DeathLootTable:"minecraft:entities/zombie_villager/cleric"}
