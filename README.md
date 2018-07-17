@@ -8,3 +8,4 @@ Credits to:
 - xNitrate for the original 1.13 migration attempt
 - carlpoole for refinements along the snapshot releases
 - Veritas83 for the example of making a looping Minecraft function: https://github.com/Veritas83/minecraft-1.13-function-loop
+- MadCat for help! Check out his data packs and youtube channel https://github.com/MadCatHoG & https://www.youtube.com/channel/UChjM6LjFpONx0xgefpmLK4A
