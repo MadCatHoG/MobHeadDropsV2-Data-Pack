@@ -1,9 +1,10 @@
-# moremobheads-1.13-datapack
-This is an updated version of Xisuma's More Mob Heads datapack that works on 1.13+ servers and clients.
+# MobHeadDropsV2 Data Pack for Minecraft 1.13
+This is a Data Pack that allows mobs to drop their heads. This project is a combination of my old Command Block contraption MobHeadDrops and Carl Poole's version of Xisuma's More Mob Heads.
 
-To enable the datapack, copy the moremobheads directory into the "datapacks" directory inside your world directory. If your server is running, make sure to run /reload.
+To enable the datapack, copy the zip file under the releases directory into your map's "datapacks" folder. If your server is running, make sure to run /reload.
 
-Credits to:
+
+From Carl Poole's Project credits to:
 - minecraft-heads.com for the mob head resources
 - xNitrate for the original 1.13 migration attempt
 - carlpoole for refinements along the snapshot releases
