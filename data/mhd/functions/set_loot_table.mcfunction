@@ -63,39 +63,32 @@ data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:256}] {Tags:["mhd"
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:512}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/white"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:768}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/white"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:1024}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/white"}
-data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:768}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/white"}
 
-data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:1}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/creamy"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:257}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/creamy"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:513}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/creamy"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:769}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/creamy"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:1025}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/creamy"}
 
-data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:2}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/chestnut"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:258}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/chestnut"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:514}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/chestnut"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:770}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/chestnut"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:1026}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/chestnut"}
 
-data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:3}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/brown"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:259}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/brown"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:515}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/brown"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:771}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/brown"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:1027}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/brown"}
 
-data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:4}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/black"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:260}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/black"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:516}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/black"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:772}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/black"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:1028}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/black"}
 
-data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:5}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/gray"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:261}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/gray"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:517}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/gray"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:773}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/gray"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:1029}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/gray"}
 
-data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:6}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/dark_brown"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:262}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/dark_brown"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:518}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/dark_brown"}
 data merge entity @e[type=horse,tag=!mhd,limit=1,nbt={Variant:774}] {Tags:["mhd"],DeathLootTable:"minecraft:entities/horse/dark_brown"}
